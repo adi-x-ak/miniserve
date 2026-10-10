@@ -1,0 +1,14 @@
+{
+  "torch": "2.14.1",
+  "prompt_lengths": [
+    6,
+    19,
+    27
+  ],
+  "decode_steps": 8,
+  "unused_memory": "NaN",
+  "max_logit_error": {
+    "float32": 2.384185791015625e-07,
+    "float64": 4.440892098500626e-16
+  }
+}

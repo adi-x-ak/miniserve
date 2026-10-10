@@ -1,0 +1,12 @@
+{
+  "cancelled_after_first_event": true,
+  "slot_reused": true,
+  "state": {
+    "status": "ok",
+    "active": 0,
+    "pending": 0,
+    "cache_bytes": 131080,
+    "completed": 1,
+    "cancelled": 1
+  }
+}
